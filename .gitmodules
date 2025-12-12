@@ -1,3 +1,6 @@
 [submodule "tools/tools/rp2040js"]
 	path = tools/tools/rp2040js
 	url = https://github.com/wokwi/rp2040js.git
+[submodule "tools/rp2040j"]
+	path = tools/rp2040j
+	url = https://github.com/wokwi/rp2040js.git
